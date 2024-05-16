@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mosr Project Starter",
+  title: "Mosr Video Mouse Scrub",
   description: "Created by Lars Mosr",
 };
 
